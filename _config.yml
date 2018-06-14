@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
-url:              https://liberxue.github.io # 域名
-signoff:          "LiberXue" # Your name
+title:            "Love - Travel - Money"
+description:      ""
+url:              https://lovetravelmoney.com/ 
+signoff:          "Courtney & Rob" # Your name
 facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
@@ -11,22 +11,22 @@ paginate: 15
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
-  - name:         首页
+  - name:         Home
     url:          /
     external:     false
-  - name:         书籍
+  - name:         Book
     url:          /book
     external:     false
-  - name:         旅游
+  - name:         Road
     url:          /road
     external:     false
-  - name:         归档
+  - name:         Archives
     url:          /archives
     external:     false
-  - name:         标签
+  - name:         Tags
     url:          /tags
     external:     false
-  - name:         关于
+  - name:         About
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
