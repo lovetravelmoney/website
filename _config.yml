@@ -1,15 +1,15 @@
 # Site settings
-title: Hanuman
+title: Love Travel Money
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://lovetravelmoney.com" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+paginate:	4 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
+facebook: https://www.facebook.com/LoveTravelMoney/
 twitter: twitter
 github:  github
 
@@ -36,13 +36,13 @@ plugins:
 
 
 # Settings for rake task
-safe: False
+safe: true
 lsi: False
 username: samanyougarg #github username
 repo: hanuman #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+relative_source: ../ #source directory
+destination: ../ #destination directory
 production_url:  https://lovetravelmoney.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
