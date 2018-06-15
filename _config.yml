@@ -1,38 +1,57 @@
-# ----------- CONFIGURABLE START -----------
-title:            "Love - Travel - Money"
-description:      ""
-url:              https://www.lovetravelmoney.com 
-signoff:          "Courtney & Rob" # Your name
-facebook_appid:   #liberxue
-google_analytics: UA-101222464-1
-share:            true 
-# 分页
-paginate: 15
-paginate_path: "liberxuepage:num"
-gems: [jekyll-paginate]
-links:
-  - name:         Home
-    url:          /
-    external:     false
-  - name:         Book
-    url:          /book
-    external:     false
-  - name:         Road
-    url:          /road
-    external:     false
-  - name:         Archives
-    url:          /archives
-    external:     false
-  - name:         Tags
-    url:          /tags
-    external:     false
-  - name:         About
-    url:          /about
-    external:     false
-# ------------ CONFIGURABLE END ------------
+# Site settings
+title: Love Travel Money
+description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+cover: assets/images/radhakrishna.jpg
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
+baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://lovetravelmoney.com" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
 
-#permalink:        /:categories/:title.html
-permalink: /:year/:month/:day/:title.html
-defaults:
-  - values:
-      layout: "default"
+# Social
+facebook: facebook
+twitter: twitter
+github:  github
+
+#Additional Pages
+about: about
+contact: contact
+privacy-policy: privacy-policy
+
+
+permalink: /:title
+
+
+# Google Analytics
+analytics_id: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+  - jekyll-paginate
+
+
+# Settings for rake task
+safe: False
+lsi: False
+username: samanyougarg #github username
+repo: hanuman #github repository
+branch: master #branch
+relative_source: ../hanuman/ #source directory
+destination: ../hanuman-pages/ #destination directory
+production_url:  https://lovetravelmoney.com/
+source_url:  https://github.com/samanyougarg/hanuman #source repository url
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
