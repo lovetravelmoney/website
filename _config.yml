@@ -15,8 +15,8 @@ github:  github
 
 #Additional Pages
 about: about 
-contact: contact
-privacy-policy: privacy-policy
+#contact: contact
+#privacy-policy: privacy-policy
 
 
 permalink: /:title
