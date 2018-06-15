@@ -1,8 +1,10 @@
+---
 robert:
   username: robert
-  name: robert
+  name: Robert James
   location: Austin
   url_full: https://robertgabriel.ninja
-  url: robertchalisa.net
-  bio: Jai Shri Ram!
+  url: https://robertgabriel.ninja
+  bio: "I \U0001F497 the web & coffee • I work on open source code • All tweets are
+    mine cause I’m greedy \U0001F605 Previously @teamwork, @dellemc"
   assets: assets/images/robert.png
