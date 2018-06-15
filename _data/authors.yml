@@ -1,16 +1,8 @@
-hanuman:
-  username: hanuman
-  name: HANUMAN
-  location: Ayodhya
-  url_full: https://hanumanchalisa.net
-  url: hanumanchalisa.net
+robert:
+  username: robert
+  name: robert
+  location: Austin
+  url_full: https://robertgabriel.ninja
+  url: robertchalisa.net
   bio: Jai Shri Ram!
-  assets: assets/images/hanuman.png
-krishna:
-  username: krishna
-  name: KRISHNA
-  location: Vrindavan
-  url_full: https://shriradhakrishna.com
-  url: shriradhakrishna.com
-  bio: Radhe! Radhe!
-  assets: assets/images/favicon.png
+  assets: assets/images/robert.png

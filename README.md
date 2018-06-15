@@ -1,16 +1,16 @@
-# HANUMAN Jekyll Theme
+# robert Jekyll Theme
 
-[![Build Status](https://travis-ci.org/samanyougarg/hanuman.svg?branch=master)](https://travis-ci.org/samanyougarg/hanuman)
+[![Build Status](https://travis-ci.org/samanyougarg/robert.svg?branch=master)](https://travis-ci.org/samanyougarg/robert)
 
-Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+robert is a minimal yet powerful Jekyll theme for your blogs and websites.
 
 It is built using the open source [AMP Start framework](https://www.ampstart.com/) and can be customized as per your requirements.
 
 <a href="https://www.buymeacoffee.com/samanyougarg"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" target="_blank"></a>
 
 ## Live Demo
-## [Hanuman](https://samanyougarg.com/hanuman)
-![Hanuman](/Screenshots/hanuman.jpg "Hanuman Preview")
+## [robert](https://samanyougarg.com/robert)
+![robert](/Screenshots/robert.jpg "robert Preview")
 
 
 ## Features
@@ -46,7 +46,7 @@ There are different ways to install the theme -
 #### Deploying to Github Pages
 **Method 1**
 
-Push the contents of the destination folder (mentioned in _config.yml. eg - destination: ../hanuman-pages/) to the gh-pages branch(if project page) or master branch(if user page) of your repository.
+Push the contents of the destination folder (mentioned in _config.yml. eg - destination: ../robert-pages/) to the gh-pages branch(if project page) or master branch(if user page) of your repository.
 
 **Method 2**
 
@@ -63,13 +63,13 @@ This is the setup I am using.
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "hanuman"
+gem "robert"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: hanuman
+theme: robert
 ```
 
 And then execute:
@@ -78,7 +78,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install hanuman
+    $ gem install robert
 
 You'll also need to copy or create the _config.yml file just like in this repository. Similarly, you'll need to have a navigation.yml and author.yml in your _data directory.
 
@@ -97,7 +97,7 @@ gem "jekyll-remote-theme"
 
 2. Update the bundled gems using `bundle` command.
 
-3. Add `remote_theme: "hanuman"` to your `_config.yml`.
+3. Add `remote_theme: "robert"` to your `_config.yml`.
 
 4. Add `jekyll-remote-theme` to the plugins array of your `_config.yml` -
 
@@ -159,7 +159,7 @@ If you have errors on your page, AMP will list those for you in the console. If 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/samanyougarg/hanuman. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/samanyougarg/robert. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 To submit a pull request -
 
@@ -169,7 +169,7 @@ To submit a pull request -
 4. Open a pull request on Github describing what was fixed or added.
 
 ## Thanks
-Hanuman is based on [amplify](https://github.com/ageitgey/amplify) jekyll theme. Thank You.
+robert is based on [amplify](https://github.com/ageitgey/amplify) jekyll theme. Thank You.
 
 ## License
 

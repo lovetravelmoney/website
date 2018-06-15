@@ -1,6 +1,6 @@
 # Site settings
 title: Love Travel Money
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+description: robert is a minimal yet powerful Jekyll theme for your blogs and websites.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -39,12 +39,12 @@ plugins:
 safe: true
 lsi: False
 username: samanyougarg #github username
-repo: hanuman #github repository
+repo: robert #github repository
 branch: master #branch
 relative_source: ../ #source directory
 destination: ../ #destination directory
 production_url:  https://lovetravelmoney.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+source_url:  https://github.com/samanyougarg/robert #source repository url
 
 exclude:
   - README.md
