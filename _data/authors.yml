@@ -1,10 +1,19 @@
----
-robert:
-  username: robert
-  name: Robert James
-  location: Austin
-  url_full: https://robertgabriel.ninja
-  url: https://robertgabriel.ninja
-  bio: "I \U0001F497 the web & coffee • I work on open source code • All tweets are
-    mine cause I’m greedy \U0001F605 Previously @teamwork, @dellemc"
-  assets: assets/images/robert.png
+# Author information
+# Assign to a variable before using them:
+# assign author = site.data.authors[page.author]
+#
+# {{ author.name }}: author name, used in post pages, and atom feed
+# {{ author.email }}: used in atom feed, homepage
+# {{ author.web }}: used in atom feed
+# {{ author.twitter }}: used by Twitter Cards
+default:
+  name:         Tunghsiao Liu
+  email:        t@sparanoid.com
+  web:          https://sparanoid.com/
+  twitter:      tunghsiao
+
+tester:
+  name:         Tester
+  email:        test@test.com
+  web:          https://example.com/
+  twitter:      tester

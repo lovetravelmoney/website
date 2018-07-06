@@ -1,13 +1,2 @@
-<!DOCTYPE html>
-<html ⚡ lang="en">
-  {% include head.html %}
-  <body>
-    {% include header.html %}
-
-    {{ content }}
-
-    {% comment %}
-        {% include analytics.html %}
-    {% endcomment %}
-  </body>
-</html>
+{%- include amsf/core -%}
+{%- include {{ amsf_theme_base }}/layouts/default.html -%}
