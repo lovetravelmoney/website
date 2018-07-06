@@ -1,8 +1,4 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-group :development do
-  gem 'jekyll', '3.8.3'
-  gem 'jekyll-last-modified-at'
-  gem 'match_regex'
-  gem 'stringex'
-end
+source "https://rubygems.org"
+gemspec
