@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.6.2"
-gem 'jekyll-compose', group: [:jekyll_plugins]
-gem "github-pages", "~> 168"
-gem "rake", "~> 12.3.0"
-gem 'jekyll-paginate'
+group :development do
+  gem 'jekyll', '3.8.3'
+  gem 'jekyll-last-modified-at'
+  gem 'match_regex'
+  gem 'stringex'
+end
