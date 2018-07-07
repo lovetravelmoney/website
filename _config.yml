@@ -4,7 +4,7 @@ email: your-email@domain.com # email for form submission, you also have to chang
 description: > # this means to ignore newlines until "baseurl:"
   Courtney & Rob Adventure couple traveling the world while trying to make a living at the same time. 👩🏻‍💻@courtneymakesvideo 👨🏻‍💻@robert_james_gabriel #♥️✈️💵
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://lovetravelmoney.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lovetravelmoney.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lovetravelmoney # replace with your_twitter_username or comment to remove link from footer
 github_username:  robertjgabriel # replace with your_github_username or comment to remove link from footer
 instagram_username: lovetravelmoney # replace with your_instagram_username or comment to remove link from footer
