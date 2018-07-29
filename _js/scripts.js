@@ -229,40 +229,4 @@ function addErrorData( element, error ) {
     element.after( "<span class='error-data'>" + error + "</span>" );
 }
 
-// AJAX Form submit
-$( "#contactForm" ).submit( function( e ) {
 
-    e.preventDefault();
-
-    var $btn = $( ".js-submit" ),
-        $inputs = $( ".form__input input" ),
-        $textarea = $( ".form__input textarea" ),
-        $name = $( "input#name" ).val();
-
-    $.ajax( {
-
-        // Change the email address here:
-        url: "https://formspree.io/courtneymakesvideo@gmail.com",
-        method: "POST",
-        data: $( this ).serialize(),
-        dataType: "json",
-
-        beforeSend: function() {
-            $btn.prop( "disabled", true );
-            $btn.text( "Sending..." );
-        },
-        success: function( data ) {
-            $inputs.val( "" );
-            $textarea.val( "" );
-            $btn.prop( "disabled", false );
-            $btn.text( "Send" );
-            openModal();
-            $( ".modal__body" ).append( "<h1>Thanks " + $name + "!</h1><p>Your message was successfully sent! Will get back to you soon.</p>" );
-
-        },
-        error: function( err ) {
-            $( ".modal, .modal__overlay" ).addClass( "--show" );
-            $( ".modal__body" ).append( "<h1>Aww snap!</h1><p>Something went wrong, please try again. Error message:</p>" + err );
-        }
-    } );
-} );

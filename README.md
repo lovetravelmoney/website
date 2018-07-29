@@ -10,7 +10,6 @@ A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SE
 * SEO friendly, with help of [Jekyll SEO Plugin](https://github.com/jekyll/jekyll-seo-tag)
 * Easy [Google Tag Manager](https://tagmanager.google.com/) Integration
 * Support for [Disqus](https://disqus.com/) comments
-* Form submissions with [Formspree](https://formspree.io/)
 
 [Preview Demo](https://janczizikow.github.io/sleek/)
 
