@@ -4,10 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+### Meet Robert James & Courtney
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Hi! Thanks for stopping by! We’re a couple of travel addicts, conquering and discovering the world one short trip at a time, while working a full-time job.
+ 
+
+We guess you ended up on our blog because, like us, you love to travel. We like to spend our free time in places around the world like the Ireland, Austin and Greece, to name a few! Many people quit their jobs in order to travel the world. We’re a little too ambitious to give it all up, though. So we decided to try and travel the world while also working full time back home in USA. We don’t have the luxury to travel indefinitely but we don’t let that stop us from living our dream.
+
+Sounds familiar?
+
+Then, follow along on our short adventures as we conquer the planet!
