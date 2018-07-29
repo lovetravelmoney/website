@@ -4,8 +4,6 @@ title: Photography
 permalink: /photography/
 ---
 
-# Photography
-
 ## Ireland 
 {% include image-gallery.html folder="/assets/album/ireland" %}
 

@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-### Meet Robert James & Courtney
+# Meet Robert James & Courtney
 
 
 Hi! Thanks for stopping by! We’re a couple of travel addicts, conquering and discovering the world one short trip at a time, while working a full-time job.
