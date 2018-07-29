@@ -6,7 +6,8 @@ permalink: /photography/
 
 
 ### Photography
-#### Photography isour  passion for Travel.
+
+Photography isour  passion for Travel.
 
 
 
