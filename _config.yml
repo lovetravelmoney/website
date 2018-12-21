@@ -3,7 +3,7 @@ author: love travel money
 encoding: UTF-8
 email: courtneymakesvideo@gmail.com # email for form submission, you also have to change it in _js/scripts.js
 description: > # this means to ignore newlines until "baseurl:"
-  Courtney & Rob Adventure couple traveling the world while trying to make a living at the same time. 👩🏻‍💻@courtneymakesvideo 👨🏻‍💻@robert_james_gabriel #♥️✈️💵
+  The frugal adventure couple that’s traveling the world!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lovetravelmoney.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lovetravelmoney # replace with your_twitter_username or comment to remove link from footer
