@@ -7,9 +7,9 @@ summary: My name is Robert James Gabriel, i am 25 years old. I work as a softwar
 featured-img: assets/album/47389743_488857378270242_367529194856382464_o.jpg
 
 ---
-Hey reader,
+Hey 👋,
 
-My name is Robert James Gabriel, i am 25 years old. I work as a software engineer with a focus on performance and engineering for the mobile, and web. So I am a kind of a nerd.
+My name is Robert James Gabriel, I am 25 years old. I work as a software engineer with a focus on performance and engineering for the mobile, and web. So I am a kind of a nerd.
 
 ![](assets/album/DvNZ17WH_400x400.jpg)
 
