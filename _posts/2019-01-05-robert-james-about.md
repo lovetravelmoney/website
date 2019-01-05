@@ -20,8 +20,8 @@ In my spare time, I also work and maintain the OpenDyslexic Chrome and Firefox a
 
 You can learn more at
 
-* [https://www.opendyslexic.org](https://www.opendyslexic.org "https://www.opendyslexic.org")
-* [https://www.helperbird.com](https://www.opendyslexic.org "https://www.opendyslexic.org")
+* [OpenDyslexic](https://www.opendyslexic.org "https://www.opendyslexic.org")
+* [Helperbird](https://www.opendyslexic.org "https://www.opendyslexic.org")
 
 Throughout my years of experience, I have obtained a great deal of knowledge working for internal and external clients delivering web and mobile applications. He has extensive experience working with HTML5, CSS3, SASS, LESS, NodeJS, Vue.js, PHP, NPM, JQuery, JavaScript, AngularJS, PWA, Data Structures and, Mobile applications.
 
