@@ -4,7 +4,7 @@ title: About Robert James
 summary: My name is Robert James Gabriel, i am 25 years old. I work as a software
   engineer with a focus on performance and engineering for the mobile, and web. So
   I am a kind of a nerd.
-featured-img: assets/album/47389743_488857378270242_367529194856382464_o.jpg
+featured-img: 47389743_488857378270242_367529194856382464_o.jpg
 
 ---
 Hey 👋,
@@ -12,6 +12,7 @@ Hey 👋,
 My name is Robert James Gabriel, I am 25 years old. I work as a software engineer with a focus on performance and engineering for the mobile, and web. So I am a kind of a nerd.
 
 ![](assets/album/DvNZ17WH_400x400.jpg)
+
 
 I'm engaged to Courtney and I'm currently building open source projects and sass products, PWA's across iOS, Android, Website, and TV while travelling the world. I will be speaking at events this year and will be posting here about what we see and do.
 
