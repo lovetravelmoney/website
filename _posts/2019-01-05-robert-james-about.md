@@ -24,14 +24,14 @@ You can learn more at
 
 Throughout my years of experience, I have obtained a great deal of knowledge working for internal and external clients delivering web and mobile applications. He has extensive experience working with HTML5, CSS3, SASS, LESS, NodeJS, Vue.js, PHP, NPM, JQuery, JavaScript, AngularJS, PWA, Data Structures and, Mobile applications.
 
-I also enjoy playing League of Legends, Spyro and the Xbox One. If you want to play with me. My Gamertag is \[Rob Gabriel\]() and my League of legends is \[J1Bud\]([http://na.op.gg/summoner/userName=j1bud](http://na.op.gg/summoner/userName=j1bud "http://na.op.gg/summoner/userName=j1bud")).
+I also enjoy playing League of Legends, Spyro and the Xbox One. If you want to play with me. My Gamertag is Rob Gabriel and my League of legends is [J1Bud](http://na.op.gg/summoner/userName=j1bud "http://na.op.gg/summoner/userName=j1bud")
 
 My social media accounts are the following
 
-* \[Twitter\]([https://twitter.com/RobertJGabriel](https://twitter.com/RobertJGabriel "https://twitter.com/RobertJGabriel"))
-* \[Linkedin\]([https://www.linkedin.com/in/robertjamesgabriel/](https://www.linkedin.com/in/robertjamesgabriel/ "https://www.linkedin.com/in/robertjamesgabriel/"))
-* \[Github\]([https://github.com/RobertJGabriel/](https://github.com/RobertJGabriel/ "https://github.com/RobertJGabriel/"))
-* \[Website\](https://www.robertgabriel.ninja/)
+* [Twitter](https://twitter.com/RobertJGabriel "Twitter")
+* [Linkedin](https://www.linkedin.com/in/robertjamesgabriel/ "Linkedin")
+* [Github](https://github.com/RobertJGabriel/ "Github")
+* [Website](https://www.robertgabriel.ninja/ "Website")
 
 Thanks, guys,
 
