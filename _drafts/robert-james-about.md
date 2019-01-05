@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robert James about
+title: About Robert James
 summary: My name is Robert James Gabriel, i am 25 years old. I work as a software
   engineer with a focus on performance and engineering for the mobile, and web. So
   I am a kind of a nerd.
