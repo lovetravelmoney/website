@@ -2,7 +2,7 @@
   {% if post.featured-img %}
   <figure class="post-card__thumb">
     <img
-      src="{{site.url}}/assets/album/{{post.featured-img}}",
+      src="{{site.url}}{{post.featured-img}}",
       data-srcset="{{site.url}}/{{post.featured-img}}, {{site.url}}/{{post.featured-img}} 2x"
       class="lazyload blur"
       alt="{{post.title}}"
