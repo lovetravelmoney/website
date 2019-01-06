@@ -4,7 +4,7 @@ title: Contact
 permalink: "/contact/"
 
 ---
-### Contact Form
+## Contact Form
 
 Fill in the form or [email](mailto:{{site.email}}) us to discuss any business or messages.
 
@@ -12,12 +12,12 @@ Fill in the form or [email](mailto:{{site.email}}) us to discuss any business or
 
 {% include modal.html %}
 
-### Email
+## Email
 
 * [robert_gabriel@outlook.com](robert_gabriel@outlook.com)
 * [courtneymakesvideo@gmail.com](mailto:courtneymakesvideo@gmail.com)
 
-### Social Media
+## Social Media
 
 * [Facebook](https://www.facebook.com/LoveTravelMoney)
 * [Twitter](https://www.twitter.com/lovetravelmoney)
