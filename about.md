@@ -8,7 +8,9 @@ permalink: "/about/"
 
 Adventure couple traveling the world while trying to make a living at the same time.
 
-Robert James is currently building open source projects and sass products, PWA's across iOS, Android, Website, and TV while traveling the world. To speak at events. Previously at [Teamwork](https://www.teamwork.com/ "Fill"), [Dell & Emc](https://www.emc.com/ "Fill").  
+Robert James is currently building open source projects and sass products, PWA's across iOS, Android, Website, and TV while traveling the world. To speak at events. Previously at [Teamwork](https://www.teamwork.com/ "Fill"), [Dell & Emc](https://www.emc.com/ "Fill").
+
+![Courtney and Robert James](assets/album/us/IMG_1097.jpg "Courtney and Robert James")  
   
 Courtney Hood is a freelance, video editor with years of experience working for YouTube giants [**SoulPancake**](http://soulpancake.com/) and [**My Damn Channel**](http://www.mydamnchannel.com/) as well as creating content for brands such as [**Disney**](http://www.disney.com/), [**Intel**](https://www.intel.com/content/www/us/en/homepage.html), [**Adobe**](http://www.adobe.com/), [**Lexus**](http://www.lexus.com/), [**Garnier-Fructis**](http://www.garnierusa.com/products/haircare.aspx), [**Evian**](http://www.evian.com/en_us/), [**History Channel**](http://www.history.com/) and [**CNN**](http://www.cnn.com/).  
   
