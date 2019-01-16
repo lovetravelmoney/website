@@ -4,7 +4,7 @@ title: About Us
 permalink: "/about/"
 
 ---
-### Hey 👋
+### Welcome 👋
 
 Adventure couple traveling the world while trying to make a living at the same time.
 
