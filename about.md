@@ -22,10 +22,6 @@ Courtney has solid skills in editing, sound mixing, color correction, and motion
 
 Robert James is from Ireland, So it's pretty cute if you have a thing for the Irish. Courtney is a Cali girl and her accent is from there.
 
-#### Whats my biggest adventure to date?
-
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
-
 #### Which country is my favorite?
 
 We loved Budapest!!! Also Ireland, Paris and America are amazing too.
