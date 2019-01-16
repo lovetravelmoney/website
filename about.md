@@ -1,22 +1,24 @@
 ---
 layout: page
 title: About Us
-permalink: /about/
----
+permalink: "/about/"
 
+---
 ### Hey 👋
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
+Adventure couple traveling the world while trying to make a living at the same time.
 
-Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. 
-
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Robert James is currently building open source projects and sass products, PWA's across iOS, Android, Website, and TV while traveling the world. To speak at events. Previously at [Teamwork](https://www.teamwork.com/ "Fill"), [Dell & Emc](https://www.emc.com/ "Fill").  
+  
+Courtney Hood is a freelance, video editor with years of experience working for YouTube giants [**SoulPancake**](http://soulpancake.com/) and [**My Damn Channel**](http://www.mydamnchannel.com/) as well as creating content for brands such as [**Disney**](http://www.disney.com/), [**Intel**](https://www.intel.com/content/www/us/en/homepage.html), [**Adobe**](http://www.adobe.com/), [**Lexus**](http://www.lexus.com/), [**Garnier-Fructis**](http://www.garnierusa.com/products/haircare.aspx), [**Evian**](http://www.evian.com/en_us/), [**History Channel**](http://www.history.com/) and [**CNN**](http://www.cnn.com/).  
+  
+Courtney has solid skills in editing, sound mixing, color correction, and motion graphics. She is tech savvy, can execute quickly and know how to get the job done, while elevating each project to it's greatest potential!
 
 ### Q & A
 
-#### Where is my cute accent from? 
+#### Where is my cute accent from?
 
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Robert James is from Ireland, So it's pretty cute if you have a thing for the Irish. Courtney is a Cali girl and her accent is from there.
 
 #### Whats my biggest adventure to date?
 
@@ -24,39 +26,28 @@ Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatib
 
 #### Which country is my favorite?
 
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+We loved Budapest!!! Also Ireland, Paris and America are amazing too.
 
 #### Who’s behind all these stunning photos and videos?
 
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+All credit goes to Courtney. We will have a blog post on the camera and tools soon.
 
 #### The craziest thing I’ve eaten during my travels?
 
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+For Robert James, it has to be donkey.
 
 #### How do I afford to travel so much?
 
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
-
-#### How has traveling influenced my life?
-
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Robert James works as a software engineer and Courtney works as a video editor. We save money and are able to work remotely. It's a matter of looking for cheap flights.
 
 #### Life Motto
 
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
-
-#### Most Influential Books of My Last Decade
-
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
-
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+"In the end, it’s not the years in your life that count. It’s the life in your years."  - Abraham Lincoln
 
 #### Do I have any pets?
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
-#### Prettiest beach I’ve been to?
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+I have two dogs, three chickens and a pig for a while.
 
 #### I know I had a good day when…
-Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+
+I get to sleep knowing Courtney is by my side.
