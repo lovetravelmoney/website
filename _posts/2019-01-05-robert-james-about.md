@@ -4,7 +4,7 @@ title: "Hey \U0001F44B I'm Robert James"
 summary: My name is Robert James Gabriel, i am 25 years old. I work as a software
   engineer with a focus on performance and engineering for the mobile, and web. So
   I am a kind of a nerd.
-featured-img: assets/album/background-two.png
+featured-img: assets/album/Robchurch316x9.jpg
 
 ---
 Hey 👋,
