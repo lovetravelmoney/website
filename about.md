@@ -8,7 +8,7 @@ permalink: "/about/"
 
 We're just another Instagram, adventure-couple traveling the world while trying to make a living at the same time.
 
-Robert James works as a software engineer with a focus on performance and engineering for the mobile, and web. Courtney Hood is a freelance, video editor. We bot met while staying in the same Airbnb while working remotely in Austin, TX and have been falling in love, traveling the world and learning to harness the power of remote work to see as much of this amazing planet as possible. To learn more about what we do for our day jobs, visit [www.robertgabriel.ninja](https://www.robertgabriel.ninja/) and [www.courtneymakesvideo.com](https://www.courtneymakesvideo.com/).
+Robert James works as a software engineer with a focus on performance and engineering for the mobile, and web. Courtney Hood is a freelance, video editor. We met while staying in the same Airbnb while working remotely in Austin, TX and have been falling in love, traveling the world and learning to harness the power of remote work to see as much of this amazing planet as possible. To learn more about what we do for our day jobs, visit [www.robertgabriel.ninja](https://www.robertgabriel.ninja/) and [www.courtneymakesvideo.com](https://www.courtneymakesvideo.com/).
 
 ![Courtney and Robert James](/assets/album/us/IMG_1097.jpg "Courtney and Robert James")
 
