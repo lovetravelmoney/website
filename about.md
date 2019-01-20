@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 ### Welcome 👋
 
-We're just another Instagram, adventure-couple traveling the world while trying to make a living at the same time.
+We're just another cheesy, Instagram couple traveling the world while trying to make a living at the same time.
 
 Robert James works as a software engineer with a focus on performance and engineering for the mobile, and web. Courtney Hood is a freelance, video editor. We met while staying in the same Airbnb while working remotely in Austin, TX and have been falling in love, traveling the world and learning to harness the power of remote work ever since.
 
