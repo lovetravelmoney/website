@@ -18,7 +18,7 @@ Robert James works as a software engineer with a focus on performance and engine
 
 Robert James is from Ireland, So it's pretty cute if you have a thing for the Irish. Courtney is a Cali girl and her accent is from there.
 
-#### Which country is my favorite?
+#### Which country is our favorite?
 
 We loved Budapest!!! Also Ireland, France and America are amazing too.
 
@@ -30,6 +30,6 @@ All credit goes to Courtney. We will have a blog post on the camera and tools so
 
 For Robert James, it has to be donkey. For Courtney is has to be some sort of beetle, she's not sure what kind.
 
-#### How do I afford to travel so much?
+#### How do we afford to travel so much?
 
 Robert James works as a software engineer and Courtney works as a video editor. We save money and are able to work remotely. It's a matter of looking for cheap flights and affordable Airbnbs.
