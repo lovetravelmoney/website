@@ -6,15 +6,11 @@ permalink: "/about/"
 ---
 ### Welcome 👋
 
-Adventure couple traveling the world while trying to make a living at the same time.
+We're just another Instagram, adventure-couple traveling the world while trying to make a living at the same time.
 
-Robert James is currently building open source projects and sass products, PWA's across iOS, Android, Website, and TV while traveling the world. To speak at events. Previously at [Teamwork](https://www.teamwork.com/ "Fill"), [Dell & Emc](https://www.emc.com/ "Fill").
+Robert James works as a software engineer with a focus on performance and engineering for the mobile, and web. Courtney Hood is a freelance, video editor. We bot met while staying in the same Airbnb while working remotely in Austin, TX and have been falling in love, traveling the world and learning to harness the power of remote work to see as much of this amazing planet as possible. To learn more about what we do for our day jobs, visit [www.robertgabriel.ninja](https://www.robertgabriel.ninja/) and [www.courtneymakesvideo.com](https://www.courtneymakesvideo.com/).
 
-![Courtney and Robert James](/assets/album/us/IMG_1097.jpg "Courtney and Robert James")  
-  
-Courtney Hood is a freelance, video editor with years of experience working for YouTube giants [**SoulPancake**](http://soulpancake.com/) and [**My Damn Channel**](http://www.mydamnchannel.com/) as well as creating content for brands such as [**Disney**](http://www.disney.com/), [**Intel**](https://www.intel.com/content/www/us/en/homepage.html), [**Adobe**](http://www.adobe.com/), [**Lexus**](http://www.lexus.com/), [**Garnier-Fructis**](http://www.garnierusa.com/products/haircare.aspx), [**Evian**](http://www.evian.com/en_us/), [**History Channel**](http://www.history.com/) and [**CNN**](http://www.cnn.com/).  
-  
-Courtney has solid skills in editing, sound mixing, color correction, and motion graphics. She is tech savvy, can execute quickly and know how to get the job done, while elevating each project to it's greatest potential!
+![Courtney and Robert James](/assets/album/us/IMG_1097.jpg "Courtney and Robert James")
 
 ### Q & A
 
@@ -24,7 +20,7 @@ Robert James is from Ireland, So it's pretty cute if you have a thing for the Ir
 
 #### Which country is my favorite?
 
-We loved Budapest!!! Also Ireland, Paris and America are amazing too.
+We loved Budapest!!! Also Ireland, France and America are amazing too.
 
 #### Who’s behind all these stunning photos and videos?
 
@@ -32,20 +28,8 @@ All credit goes to Courtney. We will have a blog post on the camera and tools so
 
 #### The craziest thing I’ve eaten during my travels?
 
-For Robert James, it has to be donkey.
+For Robert James, it has to be donkey. For Courtney is has to be some sort of beetle, she's not sure what kind.
 
 #### How do I afford to travel so much?
 
-Robert James works as a software engineer and Courtney works as a video editor. We save money and are able to work remotely. It's a matter of looking for cheap flights.
-
-#### Life Motto
-
-"In the end, it’s not the years in your life that count. It’s the life in your years."  - Abraham Lincoln
-
-#### Do I have any pets?
-
-I have two dogs, three chickens and a pig for a while.
-
-#### I know I had a good day when…
-
-I get to sleep knowing Courtney is by my side.
+Robert James works as a software engineer and Courtney works as a video editor. We save money and are able to work remotely. It's a matter of looking for cheap flights and affordable Airbnbs.
