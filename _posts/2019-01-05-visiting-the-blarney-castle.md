@@ -9,8 +9,9 @@ featured-img: assets/album/BlarneyCastle2bb.jpg
 
 ---
 When visiting the South of Ireland it's a travesty not to go to the [Blarney Castle](https://www.blarneycastle.ie/). The castle was built nearly six hundred years ago and has been attracted the attention of millions have as travelers venture to the picturesque village of Blarney, often just for the castle and to kiss the Blarney Stone. It's a must-see, iconic landmark and one of the Emerald Isle's greatest treasures.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oc-8ylq2dsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/oc-8ylq2dsY](https://www.youtube.com/embed/oc-8ylq2dsY "https://www.youtube.com/embed/oc-8ylq2dsY")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 When I first visited Rob in Ireland we took a taxi from Cork airport to The Square in the middle of Blarney to get some groceries before walking the very short walk back to his house. At one point I stopped and stared because, behold, there it was, The Blarney Castle. He laughed because he grew up with literally being able to see the Blarney Castle from his parents front door, and had stopped noticing it really after all these years. But I soon forced him to be a tourist in his own backyard and we wen't to see that gosh-darn Blarney Stone everyone talks about.
 
