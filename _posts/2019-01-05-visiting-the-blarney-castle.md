@@ -5,7 +5,7 @@ summary: When visiting the South of Ireland it's a travesty not to go to the Bla
   Castle. The castle was built nearly six hundred years ago, and has been attracted
   the attention of millions have as travelers venture to the picturesque village of
   Blarney, often just for the castle and to kiss the Blarney Stone.
-featured-img: assets/album/BlarneyCastle2b.jpg
+featured-img: assets/album/BlarneyCastle2bb.jpg
 
 ---
 When visiting the South of Ireland it's a travesty not to go to the [Blarney Castle](https://www.blarneycastle.ie/). The castle was built nearly six hundred years ago and has been attracted the attention of millions have as travelers venture to the picturesque village of Blarney, often just for the castle and to kiss the Blarney Stone. It's a must-see, iconic landmark and one of the Emerald Isle's greatest treasures.
