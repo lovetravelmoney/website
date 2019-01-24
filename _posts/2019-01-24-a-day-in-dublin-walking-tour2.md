@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Day in Dublin Walking Tour2
+title: A Day in Dublin Walking Tour
 date: 2019-01-24 09:12:32 +0000
 
 ---
