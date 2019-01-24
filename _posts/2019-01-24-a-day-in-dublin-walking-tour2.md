@@ -6,6 +6,8 @@ date: 2019-01-24 09:12:32 +0000
 ---
 So follow in our footsteps and check out this easy and cheap 1 Day in Dublin Walking Tour Itinerary. We had the bonus of exploring just after Christmas and the city was decked out in charming holiday cheer, but this tour would work for any time of the year.
 
+<iframe width="800" height="450" src="[https://www.youtube.com/embed/oc-8ylq2dsY](https://www.youtube.com/embed/oc-8ylq2dsY "https://www.youtube.com/embed/oc-8ylq2dsY")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>First we travelled by train from Cork to Dublin and started our walking adventure from Heuston Station.
 
 From there we walked along the River Liffey taking in the beautiful views along the waterway and headed to St. Stephen's Green Shopping center. There we had the most FANTASTIC hot chocolate at Butler's. There are several Butler's locations around Ireland and I would urge you to stop and taste this cocoa delight if you find yourself passing by one.
@@ -31,7 +33,5 @@ Almost directly across from the GPO is another Irish symbol, but one that had a 
 At this point is started lashing rain and we decided to find our way back to the train station and back to Cork.
 
 All in all it was a fun and memorable day in Dublin. Hope to go back someday to cross a few more important sites off the Dublin bucket list!
-
-<iframe width="800" height="450" src="[https://www.youtube.com/embed/oc-8ylq2dsY](https://www.youtube.com/embed/oc-8ylq2dsY "https://www.youtube.com/embed/oc-8ylq2dsY")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you enjoyed our video above, be sure to check out the \[LoveTravelMoney YouTube channel\]() and subscribe for more videos featuring adventures and tips on how to work remotely while traveling the world full time.
