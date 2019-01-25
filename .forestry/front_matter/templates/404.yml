@@ -18,3 +18,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- "_posts/hi-i-m-courtney-\U0001F481\U0001F3FB.md"
