@@ -1,10 +1,15 @@
 ---
 layout: post
 title: A Day in Dublin Walking Tour
-date: 2019-01-24 09:12:32 +0000
-featured-img: "assets/album/Dbtle7LVQAAlv4E.jpg"
+summary: When visiting the South of Ireland it's a travesty not to go to the Blarney
+  Castle. The castle was built nearly six hundred years ago, and has been attracted
+  the attention of millions have as travelers venture to the picturesque village of
+  Blarney, often just for the castle and to kiss the Blarney Stone.
+featured-img: "/assets/album/BlarneyCastle2bb.jpg"
 
 ---
+
+
 So follow in our footsteps and check out this easy and cheap 1 Day in Dublin Walking Tour Itinerary. We had the bonus of exploring just after Christmas and the city was decked out in charming holiday cheer, but this tour would work for any time of the year.
 
 <iframe width="800" height="450" src="[https://www.youtube.com/embed/oc-8ylq2dsY](https://www.youtube.com/embed/oc-8ylq2dsY "https://www.youtube.com/embed/oc-8ylq2dsY")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
