@@ -25,17 +25,18 @@ layout: compress
     </div>
     <main class="site__content">
 
-      <div class="container">
-        <div class="page-content">
+<section class="blog">
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
             {% for post in site.posts %}
               {% include card.html %}
             {% endfor %}
-          <div class="sharethis-inline-share-buttons" style="margin-top:50px;"></div>
 
+            <!-- {% include pagination.html %} -->
+          </div>
         </div>
-        
-      </div>
+      </section>
 
     </main>
 
