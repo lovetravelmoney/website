@@ -37,6 +37,7 @@ For Robert James, it has to be donkey. For Courtney is has to be some sort of be
 Robert James works as a software engineer and Courtney works as a video editor. We save money and are able to work remotely. It's a matter of looking for cheap flights and affordable Airbnbs.
 
 
+## Instagram
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
 <iframe src="https://snapwidget.com/embed/651650" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
