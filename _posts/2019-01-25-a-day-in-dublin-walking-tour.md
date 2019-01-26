@@ -45,3 +45,5 @@ At this point is started lashing rain and we decided to find our way back to the
 All in all it was a fun and memorable day in Dublin. Hope to go back someday to cross a few more important sites off the Dublin bucket list!
 
 If you enjoyed our video above, be sure to check out the [LoveTravelMoney YouTube channel](https://www.youtube.com/channel/UCfgcRnij1bCc0fN4qR-J6QQ?sub_confirmation=1) and subscribe for more videos featuring adventures and tips on how to work remotely while traveling the world full time.
+
+![](/assets/album/DublinPin.jpg)
