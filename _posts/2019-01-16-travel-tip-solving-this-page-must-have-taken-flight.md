@@ -7,6 +7,9 @@ summary: When I went to book and pay for the flight though miles I was getting t
   must be some issue or trick the airlines are doing to stop me from getting such
   a cheap flight. This was unfair though.
 featured-img: assets/album/Dbtle7LVQAAlv4E.jpg
+undefined:
+- tip
+- saving
 
 ---
 <p>Recently I was trying to book a flight thought American airways with miles. So that Courtney could fly out to me in Ireland for two weeks while I got surgery.</p>
