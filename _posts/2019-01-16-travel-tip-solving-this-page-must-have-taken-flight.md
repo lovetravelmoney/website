@@ -6,7 +6,7 @@ summary: When I went to book and pay for the flight though miles I was getting t
   even went and tried to book the flight without the miles and it allowed me. There
   must be some issue or trick the airlines are doing to stop me from getting such
   a cheap flight. This was unfair though.
-featured-img: assets/album/Dbtle7LVQAAlv4E.jpg
+featured-img: "/assets/album/american-airlines-737-side_750xx1148-647-88-312.jpg"
 undefined:
 - tip
 - saving
