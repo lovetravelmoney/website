@@ -35,3 +35,9 @@ For Robert James, it has to be donkey. For Courtney is has to be some sort of be
 #### How do we afford to travel so much?
 
 Robert James works as a software engineer and Courtney works as a video editor. We save money and are able to work remotely. It's a matter of looking for cheap flights and affordable Airbnbs.
+
+
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/651650" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+<div style="font:10px/14px 'Roboto','Helvetica Neue',Arial,Helvetica,sans-serif;font-weight:400;width:100%;text-align:right"><a href="https://snapwidget.com" style="color:#777;text-decoration:none;">SnapWidget · Instagram Widget</a></div>
