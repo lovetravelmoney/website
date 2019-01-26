@@ -8,7 +8,7 @@ featured-img: "/assets/album/dublin water.jpg"
 ---
 So follow in our footsteps and check out this easy and cheap 1 Day in Dublin Walking Tour Itinerary. We had the bonus of exploring just after Christmas and the city was decked out in charming holiday cheer, but this tour would work for any time of the year.
 
-<iframe width="800" height="450" src="\[[https://www.youtube.com/embed/oc-8ylq2dsY](https://www.youtube.com/embed/oc-8ylq2dsY "https://www.youtube.com/embed/oc-8ylq2dsY")\]([https://www.youtube.com/embed/oc-8ylq2dsY](https://www.youtube.com/embed/oc-8ylq2dsY "https://www.youtube.com/embed/oc-8ylq2dsY") "[https://www.youtube.com/embed/oc-8ylq2dsY](https://www.youtube.com/embed/oc-8ylq2dsY "https://www.youtube.com/embed/oc-8ylq2dsY")")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/_wHFhNETR4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>First we travelled by train from Cork to Dublin and started our walking adventure from [Heuston Station](https://goo.gl/maps/EtNUSovHWip).
 
