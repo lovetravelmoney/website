@@ -28,6 +28,8 @@ After this we headed to the world famous, [Trinity College](https://www.tcd.ie/)
 
 The Book of Kells is Ireland's greatest cultural treasure and the world's most famous medieval manuscript. The 9th century book is a richly decorated copy of the four Gospels of the life of Jesus Christ.
 
+![](/assets/album/IMG_1112.JPG)
+
 The exhibition is open 7 days a week. Tickets can be purchased online here. Tickets also give you access to the magnificent [Old Library](https://www.tcd.ie/library/old-library/) building built in the 18th century. Walking around in here makes you feel like you've been transported to Hogwarts, it's incredible!
 
 After this we headed to the famed [Temple Bar](https://www.10best.com/destinations/ireland/dublin/templebar-and-environs/) street and walked around to see the sights. It's a bustling stretch of road with concert venues, bars and restaurants. If you're wanting to have dinner and drinks in Dublin, head to Temple Bar and trust me, you'll be able to find something you'll like. We decided we were in the mood for burgers and dined at [Gourmet Burger Factory](https://www.gbk.ie/location/3?address&utm_source=google&utm_medium=organic&utm_campaign=google_LPM_Temple_Bar), and it did not disappoint.
@@ -38,7 +40,9 @@ Next, we cross the [Ha'penny Bridge](http://www.bridgesofdublin.ie/bridges/hapen
 
 Across the river we headed to the historically, important GPO, or [General Post Office](https://en.wikipedia.org/wiki/General_Post_Office,_Dublin). Sited in the centre of O'Connell Street, it is one of Ireland's most famous buildings. The building has remained a symbol of Irish freedom since the Easter Rising of 1916 where the GPO served as the headquarters. The bullet holes that hit the columns are still preserved to this day.
 
-Almost directly across from the GPO is another Irish symbol, but one that had a mixed reaction when it was unveiled. The Spire, it a towering monument that stands 120 meters tall. I think it's kinda cool, especially when we saw it at dusk as it was lit up, but some people feel it's a bit of an eyesore with no real cultural connection to the city.
+![](https://mapio.net/images-p/51862352.jpg)
+
+Almost directly across from the GPO is another Irish symbol, but one that had a mixed reaction when it was unveiled. [The Spire](https://www.visitdublin.com/see-do/details/the-spire#53.350953|-6.260298|13), is a towering monument that stands 120 meters tall. I think it's kinda cool, especially when we saw it at dusk as it was lit up, but some people feel it's a bit of an eyesore with no real cultural connection to the city.
 
 At this point is started lashing rain and we decided to find our way back to the train station and back to Cork.
 
