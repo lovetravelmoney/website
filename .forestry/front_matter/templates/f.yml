@@ -23,3 +23,5 @@ fields:
   type: file
   hidden: false
   default: ''
+pages:
+- _posts/2019-01-16-travel-tip-solving-this-page-must-have-taken-flight.md
