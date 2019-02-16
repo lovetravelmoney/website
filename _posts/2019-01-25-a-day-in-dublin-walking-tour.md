@@ -42,7 +42,7 @@ Across the river we headed to the historically, important GPO, or [General Post 
 
 ![](https://mapio.net/images-p/51862352.jpg)
 
-Almost directly across from the GPO is another Irish symbol, but one that had a mixed reaction when it was unveiled. [The Spire](https://www.visitdublin.com/see-do/details/the-spire#53.350953|-6.260298|13), is a towering monument that stands 120 meters tall. I think it's kinda cool, especially when we saw it at dusk as it was lit up, but some people feel it's a bit of an eyesore with no real cultural connection to the city.
+Almost directly across from the GPO is another Irish symbol, but one that had a mixed reaction when it was unveiled. [The Spire](https://www.visitdublin.com/see-do/details/the-spire), is a towering monument that stands 120 meters tall. I think it's kinda cool, especially when we saw it at dusk as it was lit up, but some people feel it's a bit of an eyesore with no real cultural connection to the city.
 
 At this point is started lashing rain and we decided to find our way back to the train station and back to Cork.
 
