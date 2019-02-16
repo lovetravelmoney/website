@@ -24,3 +24,5 @@ fields:
   hidden: false
   default: ''
 - type: tag_list
+pages:
+- _posts/awe-inspiring-landscapes-of-old-head-kinsale.md
