@@ -18,7 +18,7 @@ Now the legendary "Stone of Eloquence", The Blarney Stone, is found at the top o
 
 Be warned however, if you have knee problems, this castle is quite old and the narrow spiral, stone stairway (especially on a typically-Irish, rainy day) is a bit challenging to navigate. If you don't let that deter you, you'll be rewarded with an incredible view looking out over the grounds as well as the hills and charming neighborhood of Blarney.
 
-![Courtney taking photos on top of the Blarney Castle.](assets/album/Blarneyuptop2.jpg "On Top of Blarney Castle")
+![Courtney taking photos on top of the Blarney Castle.](/assets/album/Blarneyuptop2.jpg "On Top of Blarney Castle")
 
 Like I said, the least interesting part of the visit for me was the stone itself. But I still HIGHLY recommend going to the Blarney Castle. Why you may ask? Well, if you are one who thinks that you come to Blarney Castle only to see the stone, you'd be missing out on the beautiful and expansive 60 acres of sprawling parklands which include gardens, lakes, dungeons, wildlife and miles of walkways, and waterways. Seriously, you could spend hours exploring and getting beautiful photos. It's super awesome!
 
