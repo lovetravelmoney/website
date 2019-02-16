@@ -2,7 +2,7 @@
 layout: post
 title: Awe-Inspiring Landscapes of Old Head, Kinsale
 summary: See staggering beautiful views alongs the cliffs of Kinsale.
-featured-img: ''
+featured-img: "/assets/album/Sequence 01.00_00_04_00.Still002.jpg"
 undefined: []
 date: 2019-02-16 14:47:04 +0000
 
