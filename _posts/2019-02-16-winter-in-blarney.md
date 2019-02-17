@@ -9,13 +9,13 @@ undefined:
 date: 2019-02-16 23:54:57 +0000
 
 ---
-On Jan 30th, 2019 Blarney, Ireland was covered in a lovely blanket of snow. The whole village turned into a magical, winter wonderland. 
+On Jan 30th, 2019 Blarney, Ireland was covered in a lovely blanket of snow. The whole village turned into a magical, winter wonderland.
 
 <iframe width="800" height="450" src="https://www.youtube.com/watch?v=BxkxFm708-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We filmed a short video while taking Rob's dog Honey for a walk through the snow, which she loved!
 
-subscribe on YouTube for more videos featuring amazing travel adventures, tips on how to work remotely and travel the world full time.
+If you enjoyed the video above, [subscribe on YouTube](https://www.youtube.com/channel/UCfgcRnij1bCc0fN4qR-J6QQ?sub_confirmation=1) for more videos featuring amazing travel adventures, tips on how to work remotely and travel the world full time.
 
 Follow us @
 
