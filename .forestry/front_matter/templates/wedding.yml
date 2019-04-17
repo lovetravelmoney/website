@@ -1,7 +1,6 @@
 ---
-label: 'Wedding'
-hide_body: 
-is_partial: 
+label: Wedding
+hide_body: false
 fields:
 - name: layout
   label: Layout
