@@ -1,12 +1,11 @@
 footer {
   padding: 2.8125rem 0;
-  border-top: 1px solid #f0f0f0;
+  border-top: 2px solid #f0f0f0;
   text-align: center;
   font-size: 0.875rem;
-  color: rgba(33,33,33,0.6);
-
+  background-color: #391718;
   a {
-    color: rgba(33,33,33,0.6);
+    color: white;
     border-bottom: 0;
 
     &:hover {
@@ -30,7 +29,7 @@ footer {
 }
 
 .social__icon {
-  fill: currentColor;
+  fill: white;
   height: 2.5rem;
   width: 2.5rem;
 }
