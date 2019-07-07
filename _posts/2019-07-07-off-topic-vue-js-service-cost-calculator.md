@@ -2,7 +2,7 @@
 layout: post
 title: 'Off topic: Vue.js Service Cost Calculator'
 summary: Learn how we built a service cost calculator for Courtneys website.
-featured-img: ''
+featured-img: "/assets/album/Screen Shot 2019-07-07 at 4.42.31 PM.png"
 undefined: []
 
 ---
