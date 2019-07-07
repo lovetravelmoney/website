@@ -18,8 +18,6 @@ Well I thought, this was a great idea. So I found his example project on Code Pe
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css'>
     
-    
-    
     <style>
         #main {
             min-height: 100vh !important;
@@ -328,9 +326,8 @@ Well I thought, this was a great idea. So I found his example project on Code Pe
     
     <script
         src="https://static.codepen.io/assets/editor/live/css_reload-5619dc0905a68b2e6298901de54f73cefe4e079f65a75406858d92924b4938bf.js">
-    
 
-I then added the functions to allow the forum to be submitted to a remote [API](https://courtney-app.herokuapp.com/), which is being hosted on [Heroku](https://courtney-app.herokuapp.com/). 
+I then added the functions to allow the forum to be submitted to a remote [API](https://courtney-app.herokuapp.com/), which is being hosted on [Heroku](https://courtney-app.herokuapp.com/).
 
     const app = require('express')();
     const nodemailer = require('nodemailer');
@@ -462,3 +459,5 @@ I then added the functions to allow the forum to be submitted to a remote [API](
 The user submits the forum to the server which looks at the selected options and calculates the price. Sending it to both the price and to Courtney's email. So they can follow up after.
 
 It is a really fun project and I hope this helps any digital nomad looking to create a [Vue.js Service Cost Calculator](https://codepen.io/amy_e_carrigan/pen/NpZvMR).
+
+Remember to follow [Courtney](https://www.instagram.com/courtneymakesvideo/) and [I](https://www.instagram.com/robertjgabriel/) on social media.
