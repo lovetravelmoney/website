@@ -24,6 +24,6 @@ fields:
   default: ''
 - type: tag_list
 pages:
-- _posts/our-youtube-channel.md
+- _posts/2019-08-07-our-youtube-channel.md
 - _posts/2019-02-16-awe-inspiring-landscapes-of-old-head-kinsale.md
 - _posts/2019-02-16-winter-in-blarney.md
