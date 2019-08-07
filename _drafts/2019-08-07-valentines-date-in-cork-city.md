@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Valentines Date in Cork City
 summary: Follow along on our cute and fun Valentines Day in beautiful Cork City, Ireland.
 featured-img: "/assets/album/2442900.jpg"
