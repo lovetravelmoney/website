@@ -6,7 +6,7 @@
   "dependencies": {
     "breakpoint-sass": "^2.7.1",
     "fg-loadcss": "^2.0.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lazysizes": "^4.0.1",
     "normalize.css": "^8.0.0",
     "picturefill": "^3.0.2",
